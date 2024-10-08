@@ -1,2 +1,6 @@
 # Archivos log
-.log
+*.log
+# Archivo pub
+*.pub
+# claves
+clavegen
