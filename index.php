@@ -1,4 +1,4 @@
 <?php
 	echo "Hola mundo, soy Joaquín García Gutiérrez. Modificado en local para ver en github.";
-	echo " Modificación para causar conflicto";
+	echo " Modificación para causar conflicto y subirlo a mi rama.";
 ?>
